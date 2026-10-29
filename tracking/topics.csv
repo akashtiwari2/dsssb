@@ -1,1 +1,15 @@
 topic_id,section,topic,syllabus_source,priority,priority_reason,status,independent_attempts,independent_correct,median_seconds,last_tested,next_revision,evidence
+CS-BASICS,B,Computer basics and number systems,Working scope / P24,P1,Prerequisite,UNTESTED,0,0,,,,No learner attempts
+CS-PROG,B,Programming including Python,P24 / historical scope,P1,Observed paper skills and prerequisite,UNTESTED,0,0,,,,No learner attempts
+CS-DIGITAL,B,Digital logic,P24 / historical scope,P1,Prerequisite plus observed stem,UNTESTED,0,0,,,,No learner attempts
+CS-DBMS,B,DBMS and SQL,P24 / historical scope,P1,Observed SQL and foundation,UNTESTED,0,0,,,,No learner attempts
+CS-OS,B,Operating systems and Linux,Historical scope,P1,Core foundation,UNTESTED,0,0,,,,No learner attempts
+CS-NET,B,Networks and security,P24 / historical scope,P1,Observed stem and foundation,UNTESTED,0,0,,,,No learner attempts
+CS-DSA,B,Data structures and algorithms,Historical scope,P1,Core foundation,UNTESTED,0,0,,,,No learner attempts
+TEACH,B,Teaching methodology,SRC-07,P1,Verified current scheme,UNTESTED,0,0,,,,No learner attempts
+MATH,A,Numerical ability,SRC-07,P1,User concern awaiting evidence,UNTESTED,0,0,,,,No learner attempts
+REASON,A,Reasoning,SRC-07,P1,User concern awaiting evidence,UNTESTED,0,0,,,,No learner attempts
+HINDI,A,Hindi,SRC-07,P2,Maintain section coverage,UNTESTED,0,0,,,,No learner attempts
+ENGLISH,A,English,SRC-07,P2,Maintain section coverage,UNTESTED,0,0,,,,No learner attempts
+GA,A,General awareness,SRC-07,P2,Maintain section coverage,UNTESTED,0,0,,,,No learner attempts
+CS-OTHER,B,Remaining scope audit,SYLLABUS_MAP.md,PENDING,Verify current scope and split into subtopics,UNTESTED,0,0,,,,No learner attempts

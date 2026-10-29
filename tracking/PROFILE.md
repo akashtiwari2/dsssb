@@ -1,11 +1,11 @@
 # Learner profile
 
 Language: Hinglish, simple conceptual explanations.
-Exam/post/code/tier: pending.
-User-stated exam day: 1 December; year pending.
-Daily hours: pending.
-Completed syllabus: pending.
-Self-reported weak subjects: pending.
+Exam: DSSSB TGT Computer Science. Official matching listing: post 41/26, Advt 03/2026, DoE; user application code confirmation pending. One Tier Technical/Teaching scheme verified.
+User-confirmed target: 1 December 2026. Exact candidate date/shift not independently checked.
+Daily capacity: 1–3 hours. Plan for a guaranteed 60-minute core; extra time is optional.
+Completed syllabus: user cannot yet judge current level. Use diagnostic.
+Self-reported possible difficulties: Reasoning and Maths (tentative, not measured).
 Measured strong/weak subjects: unknown — no answers yet.
 
 ## Evidence-based status rules (coaching defaults)
