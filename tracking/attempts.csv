@@ -6,3 +6,6 @@ A004,2026-10-30,S20261030-01,CS-DBMS,assistant-generated,,B04,,PK uniquely ident
 A005,2026-10-30,S20261030-02,MATH,assistant-generated,,R01,,Formula a+b+ab/100; net zero,0 percent,CORRECT,unconfirmed,no,unknown,,,
 A006,2026-10-30,S20261030-02,REASON,assistant-generated,,R02,,North and south cancel; 8 km east,8 km east,CORRECT,unconfirmed,no,unknown,,,E001
 A007,2026-10-30,S20261030-02,CS-PROG,assistant-generated,,R03,,B; ord returns 66,B; ord gives 66,CORRECT,unconfirmed,no,unknown,,,E002
+A008,2026-10-30,S20261030-03,CS-BASICS,assistant-generated,,N01,,8+4+1=13; 2 has zero contribution,13,CORRECT,unconfirmed,no,unknown,,,
+A009,2026-10-30,S20261030-03,CS-BASICS,assistant-generated,,N02,,2^5=32 patterns; 11111=31 maximum,32 patterns; unsigned max 31,CORRECT,unconfirmed,no,unknown,,,
+A010,2026-10-30,S20261030-03,CS-BASICS,assistant-generated,,N03,,1010,1010,CORRECT,unconfirmed,no,unknown,,,

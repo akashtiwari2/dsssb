@@ -14,7 +14,7 @@ Learner got direction correct and distance wrong; calculation cause unknown.
 - chr(65) = 'A': valid code point integer to character.
 - dict() constructs a dictionary (key-value mapping); dict() by itself gives {}.
 Recall pair: ord → number; chr → character.
-B03 selected dict(); application check pending.
+B03 selected dict(); R03 immediate chr/ord transfer correct; delayed recall pending.
 
 ## DBMS keys
 Primary key uniquely identifies a row and cannot be NULL; it may consist of multiple columns.
@@ -26,3 +26,11 @@ Learner's general uniqueness/relationship explanation was correct; no example su
 ## Next recall
 31 October: percentage transfer, direction components, ord/chr contrast, PK/FK example.
 Then 2 November, 6 November, 13 November; adjust using actual answers.
+
+
+## Binary
+Right-to-left weights: 1,2,4,8,16...; only 1-bit weights contribute.
+n bits: 2^n patterns, unsigned max 2^n-1. N01–N03 3/3 correct.
+Addition: 1+1=10; 1+1+1=11. Include carry in each next column.
+4-bit unsigned 1111+0001 -> full10000; stored0000 with carry-out1.
+Next recall 31 Oct.

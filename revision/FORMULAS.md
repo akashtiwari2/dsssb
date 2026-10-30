@@ -23,3 +23,12 @@ Example: N4 E3 S4 → x=3, y=0 → 3 km east; path 11 km.
 Initial B02 response was 1 km east; working absent. Root cause unconfirmed.
 Recall prompt R02: N6 E8 S6 — distance/direction from start and why.
 Review dates: 31 Oct, 2 Nov, 6 Nov, 13 Nov 2026.
+
+
+## F003 — Binary and unsigned range
+For bit b_i at position i counted from right starting 0: value = sum(b_i*2^i).
+n fixed bits: 2^n patterns; unsigned range 0..2^n-1.
+Fixed n-bit unsigned addition retaining only low bits stores sum mod 2^n; overflow if sum >=2^n.
+Example: 4-bit 15+1=16 mathematically; stored value 0 with carry-out 1.
+Do not apply unsigned overflow rule to signed arithmetic.
+N01–N03 3/3 correct immediate application. Review 31 Oct, 2 Nov, 6 Nov, 13 Nov.

@@ -26,3 +26,6 @@ Small samples remain tentative. A lapse should not become a permanent weak-subje
 ## Repair check 30 Oct
 R01–R03 all correct: percentage formula applied; direction cancellation explained; chr/ord pair understood immediately after teaching. Delayed retention and speed remain untested. Keep broad subject labels tentative.
 User explicitly reiterates serious syllabus/PYQ-priority teaching and periodic evaluation. Begin planned lessons now; integrate remaining diagnostics in lessons rather than prolonging standalone onboarding.
+
+## Binary check 30 Oct
+N01–N03: 3/3 correct. Correct place-value explanation; distinction between 32 patterns and maximum 31; decimal 10 converted to 1010. Basic binary application promising. No demonstrated delayed retention or timing yet. Advance to addition and unsigned overflow.
