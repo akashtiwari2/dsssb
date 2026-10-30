@@ -74,3 +74,13 @@ Start formula cards after actual lessons; include conditions and examples. Revis
 B01–B04 answered. Narrow errors: direction distance and Python function selection. DBMS core idea present; example/constraints need check. Percentage result correct, working untested.
 Repair these first, then finish broad baseline and basic/binary lesson. Those scheduled lessons are still pending; do not infer completion from date. Use optional time or transparently reschedule after actual session capacity is known.
 First delayed recall: 31 Oct; later 2 Nov, 6 Nov, 13 Nov. No full-subject weak/strong labels yet.
+
+## Evaluation cadence (within study time)
+- Every lesson: 3–5 application questions with reasoning; source-labelled PYQ when available.
+- Next attended session: 5-minute closed-book recall of due topics.
+- Every 3 completed study sessions: 10-question mixed checkpoint; log accuracy, attempted count, errors and time if supplied. Reallocate next sessions from evidence.
+- Every 7 completed study sessions: 30-question cumulative timed test using taught topics; keep it distinct from a full mock.
+- Full mocks remain 21 and 26 November as planned; 120 uninterrupted minutes needed for full simulation.
+- Report section-wise performance; generated practice and historical PYQ separately labelled. Never infer PYQ frequency from the small convenience sample.
+
+30 Oct update: R01–R03 3/3 correct. Proceed to planned computer basics/binary, then digital logic prerequisites; DBMS example and broader diagnostics integrated into later checks. Research gaps remain pending and must be completed before certifying exact syllabus coverage.

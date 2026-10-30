@@ -42,3 +42,11 @@ Background monitoring/reminders apne aap active hone ka claim mat karo.
 ## Teaching priorities
 Verified syllabus coverage; high-value measured gaps; prerequisite concepts; delayed recall; speed with accuracy; mock analysis.
 Har naya chapter padhne ke saath purani galtiyon ki practice aur revision continue rakho.
+
+## Evaluation cadence (within study time)
+- Every lesson: 3–5 application questions with reasoning; source-labelled PYQ when available.
+- Next attended session: 5-minute closed-book recall of due topics.
+- Every 3 completed study sessions: 10-question mixed checkpoint; log accuracy, attempted count, errors and time if supplied. Reallocate next sessions from evidence.
+- Every 7 completed study sessions: 30-question cumulative timed test using taught topics; keep it distinct from a full mock.
+- Full mocks remain 21 and 26 November as planned; 120 uninterrupted minutes needed for full simulation.
+- Report section-wise performance; generated practice and historical PYQ separately labelled. Never infer PYQ frequency from the small convenience sample.

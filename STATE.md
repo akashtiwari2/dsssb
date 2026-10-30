@@ -24,11 +24,12 @@ Maths percentage result promising; don't label whole subject strong. Direction a
 30 Oct binary/computer-basics lesson and broad baseline are still pending; scheduled coverage is not completion.
 Next review: 31 Oct, then 2 Nov, 6 Nov, 13 Nov.
 
-## Exact next action
-Present/explain current corrections and ask practice/REPAIR_01 R01–R03 in final response.
-Then wait for answers; grade real responses and log. After repair check, ask PK/FK example and continue remaining baseline (OS, networks, teaching, Hindi/English and GA).
-Do not repeat B01–B04 as unseen questions or overwrite attempts with model answers.
-Keep daily core realistic (60 minutes); extra time optional.
+## Latest update / exact next action
+R01–R03 answered correctly (3/3) with relevant reasoning on 30 Oct. Earlier baseline results preserved. Direction/Python immediate repair successful; delayed recall due 31 Oct. DBMS nuance/example still pending.
+User reiterates syllabus/PYQ-priority lessons plus periodic evaluation. Teach planned number-system foundation now; do not prolong onboarding.
+Lesson notes: lessons/01_BINARY.md. N01–N03 pending; grade next user answers, repair or proceed to binary addition/Boolean gates. Broader diagnostics integrated in lessons.
+Cadence: 3–5 questions per lesson; next-session recall; 10-question checkpoint every 3 completed sessions; 30-question test every 7; full mocks as calendar.
+Current full-syllabus and whole-paper research gaps remain open; no fabricated weightage.
 
 ## Research work remaining
 Read/obtain usable exact syllabus pages; verify current schedule/corrigenda and answer-key versions; expand relevant paper analysis beyond the small convenience sample.

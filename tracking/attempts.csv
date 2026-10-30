@@ -3,3 +3,6 @@ A001,2026-10-30,S20261030-01,MATH,assistant-generated,,B01,,4% km hua,4% decreas
 A002,2026-10-30,S20261030-01,REASON,assistant-generated,,B02,,starting se 1KM east par hai,3 km east,INCORRECT,unconfirmed,no,unknown,,,E001
 A003,2026-10-30,S20261030-01,CS-PROG,historical-PYQ-paraphrased,P24,Discipline 1 Q12; ID 630680598463; PDF p41,https://www.adda247.com/jobs/wp-content/uploads/sites/13/2026/06/02154459/DSSSB-TGT-Computer-Science-Official-Paper-Held-On_-07-Feb-2024-Shift-2-Eng.pdf,dict(),ord(),INCORRECT,unconfirmed,no,unknown,,,E002
 A004,2026-10-30,S20261030-01,CS-DBMS,assistant-generated,,B04,,PK uniquely identifies each row; FK relates tables through same column,PK unique and NOT NULL; FK references a primary/unique key; names need not match; example requested,PARTIAL,unconfirmed,no,unknown,,,E003
+A005,2026-10-30,S20261030-02,MATH,assistant-generated,,R01,,Formula a+b+ab/100; net zero,0 percent,CORRECT,unconfirmed,no,unknown,,,
+A006,2026-10-30,S20261030-02,REASON,assistant-generated,,R02,,North and south cancel; 8 km east,8 km east,CORRECT,unconfirmed,no,unknown,,,E001
+A007,2026-10-30,S20261030-02,CS-PROG,assistant-generated,,R03,,B; ord returns 66,B; ord gives 66,CORRECT,unconfirmed,no,unknown,,,E002

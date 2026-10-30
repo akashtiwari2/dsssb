@@ -22,3 +22,7 @@ These thresholds are coaching rules, not DSSSB qualifying criteria. Always show 
 Independent accuracy; all-assigned completion; median time; explain-back; formula recall and selection; delayed retention.
 Correct guess/hint-assisted responses are not mastery evidence.
 Small samples remain tentative. A lapse should not become a permanent weak-subject label.
+
+## Repair check 30 Oct
+R01–R03 all correct: percentage formula applied; direction cancellation explained; chr/ord pair understood immediately after teaching. Delayed retention and speed remain untested. Keep broad subject labels tentative.
+User explicitly reiterates serious syllabus/PYQ-priority teaching and periodic evaluation. Begin planned lessons now; integrate remaining diagnostics in lessons rather than prolonging standalone onboarding.
