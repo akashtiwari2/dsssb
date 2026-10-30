@@ -27,3 +27,10 @@ Pending assistant-generated questions:
 N04: 0110+0011, show result and decimal check.
 N05: 1011+0110, show full sum; if only 4 bits retained give stored bits and unsigned overflow status.
 After response: brief Boolean gates lesson and connect to inspected digital-logic PYQ; maintain planned general-section rotation.
+
+
+## N04–N05 feedback
+N04 user1011; correct1001. Right-to-left: 0+1=1 carry0; 1+1=10 write0 carry1; 1+0+1=10 write0 carry1; 0+0+1=1. Decimal6+3=9.
+N05 user correctly supplied stored0001 and overflow yes; full sum omitted. Full1011+0110=10001 (11+6=17).
+No working given: root cause of N04 unknown; do not assert a specific carry mistake.
+N06 pending (assistant-generated repair): 0101+0110; show each column result and carry, then decimal check. Advance only after repair evidence.

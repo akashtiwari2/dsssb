@@ -2,3 +2,4 @@ error_id,date_ist,attempt_id,topic_id,error_type,observed_reason,repair_action,r
 E001,2026-10-30,A002,REASON,direction-displacement,East direction correct; distance wrong; working absent so cause unknown,Use signed x/y components; cancel opposing movement,2026-10-31,Immediate R02 correct; delayed retest pending,MONITOR
 E002,2026-10-30,A003,CS-PROG,function-selection,Selected dictionary constructor for character code point; recall vs guessing unknown,Contrast dict/ord/chr with short examples,2026-10-31,Immediate R03 correct; delayed retest pending,MONITOR
 E003,2026-10-30,A004,CS-DBMS,incomplete-explanation,Core relationship idea present; no example; same-column wording ambiguous,Explain FK reference to primary/unique key; different names allowed; PK NOT NULL,2026-10-31,,OPEN
+E004,2026-10-30,A011,CS-BASICS,binary-addition,Wrong sum; working absent so cause unknown,Track write-bit and carry per column then decimal cross-check,2026-10-31,,OPEN

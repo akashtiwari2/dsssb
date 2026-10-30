@@ -29,3 +29,6 @@ User explicitly reiterates serious syllabus/PYQ-priority teaching and periodic e
 
 ## Binary check 30 Oct
 N01–N03: 3/3 correct. Correct place-value explanation; distinction between 32 patterns and maximum 31; decimal 10 converted to 1010. Basic binary application promising. No demonstrated delayed retention or timing yet. Advance to addition and unsigned overflow.
+
+## Addition check
+N04 incorrect:1011 instead of1001. N05 stored0001 and unsigned overflow correct; full sum10001 and working not supplied. Target narrow carry check; do not infer global binary weakness. Next one-question repair N06.

@@ -27,7 +27,7 @@ Next review: 31 Oct, then 2 Nov, 6 Nov, 13 Nov.
 ## Latest update / exact next action
 R01–R03 answered correctly (3/3) with relevant reasoning on 30 Oct. Earlier baseline results preserved. Direction/Python immediate repair successful; delayed recall due 31 Oct. DBMS nuance/example still pending.
 User reiterates syllabus/PYQ-priority lessons plus periodic evaluation. Teach planned number-system foundation now; do not prolong onboarding.
-Lesson notes: lessons/01_BINARY.md. N01–N03 now 3/3 correct: 13 with weights; 32 patterns/max31; 1010. Binary addition/carry and unsigned overflow introduced; N04–N05 pending. Grade next answers then Boolean gates/PYQ progression; preserve general-section rotation. Same-day response batches do not equal completed study sessions; first study block still in progress.
+Lesson notes: lessons/01_BINARY.md. N01–N03 now 3/3 correct: 13 with weights; 32 patterns/max31; 1010. Binary addition/carry and unsigned overflow introduced; N04 wrong1011 (correct1001); N05 stored0001/overflow yes correct, full10001 omitted. E004 open. Explain N04 column-wise and N05 full sum; ask N06=0101+0110 with each carry and decimal check. Then proceed to Boolean gates/PYQ progression; preserve general-section rotation. Same-day response batches do not equal completed study sessions; first study block still in progress.
 Cadence: 3–5 questions per lesson; next-session recall; 10-question checkpoint every 3 completed sessions; 30-question test every 7; full mocks as calendar.
 Current full-syllabus and whole-paper research gaps remain open; no fabricated weightage.
 

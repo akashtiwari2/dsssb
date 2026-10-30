@@ -9,3 +9,5 @@ A007,2026-10-30,S20261030-02,CS-PROG,assistant-generated,,R03,,B; ord returns 66
 A008,2026-10-30,S20261030-03,CS-BASICS,assistant-generated,,N01,,8+4+1=13; 2 has zero contribution,13,CORRECT,unconfirmed,no,unknown,,,
 A009,2026-10-30,S20261030-03,CS-BASICS,assistant-generated,,N02,,2^5=32 patterns; 11111=31 maximum,32 patterns; unsigned max 31,CORRECT,unconfirmed,no,unknown,,,
 A010,2026-10-30,S20261030-03,CS-BASICS,assistant-generated,,N03,,1010,1010,CORRECT,unconfirmed,no,unknown,,,
+A011,2026-10-30,S20261030-04,CS-BASICS,assistant-generated,,N04,,1011,1001; decimal 9,INCORRECT,unconfirmed,no,unknown,,,E004
+A012,2026-10-30,S20261030-04,CS-BASICS,assistant-generated,,N05,,Overflow yes; stored 0001,Full10001; stored0001; overflow yes,PARTIAL,unconfirmed,no,unknown,,,
