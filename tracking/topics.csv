@@ -1,7 +1,7 @@
 topic_id,section,topic,syllabus_source,priority,priority_reason,status,independent_attempts,independent_correct,median_seconds,last_tested,next_revision,evidence
-CS-BASICS,B,Computer basics and number systems,Working scope / P24,P1,Prerequisite,REPAIR,0,0,,2026-10-30,2026-10-31,N01-N03 correct; N04 sum wrong; N05 stored bits/overflow right; carry working needs check
+CS-BASICS,B,Computer basics and number systems,Working scope / P24,P1,Prerequisite,PRACTISING,0,0,,2026-10-30,2026-10-31,N01-N03 correct; N04 sum wrong; N05 stored bits/overflow right; N06 carry working correct; delayed recall pending
 CS-PROG,B,Programming including Python,P24 / historical scope,P1,Observed paper skills and prerequisite,PRACTISING,0,0,,2026-10-30,2026-10-31,1 wrong choice dict instead of ord; no whole-programming inference; immediate transfer correct with explanation; delayed recall pending
-CS-DIGITAL,B,Digital logic,P24 / historical scope,P1,Prerequisite plus observed stem,UNTESTED,0,0,,,,No learner attempts
+CS-DIGITAL,B,Digital logic,P24 / historical scope,P1,Prerequisite plus observed stem,LEARNING,0,0,,,,No learner attempts
 CS-DBMS,B,DBMS and SQL,P24 / historical scope,P1,Observed SQL and foundation,LEARNING,0,0,,2026-10-30,2026-10-31,Core idea present; constraints/reference/example pending
 CS-OS,B,Operating systems and Linux,Historical scope,P1,Core foundation,UNTESTED,0,0,,,,No learner attempts
 CS-NET,B,Networks and security,P24 / historical scope,P1,Observed stem and foundation,UNTESTED,0,0,,,,No learner attempts

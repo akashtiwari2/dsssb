@@ -34,3 +34,6 @@ Current full-syllabus and whole-paper research gaps remain open; no fabricated w
 ## Research work remaining
 Read/obtain usable exact syllabus pages; verify current schedule/corrigenda and answer-key versions; expand relevant paper analysis beyond the small convenience sample.
 Never carry third-party topic counts forward as our independently verified frequencies.
+
+## Newest update (supersedes prior next action)
+N06 correct1011 with carry steps and decimal check. E004 immediate repair successful; delayed review31 Oct. User explicitly requests brisk pace/exam-level questions. Present lessons/02_LOGIC.md and timed G01–G03 (3min coaching target), await answers. Then grade with supplied elapsed time, continue Boolean identities/K-map prerequisites toward inspected P24 Q13. Do not call generated questions actual PYQs or verified exam difficulty. Same study block; no invented study duration.

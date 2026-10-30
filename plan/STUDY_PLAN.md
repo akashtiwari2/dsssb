@@ -84,3 +84,6 @@ First delayed recall: 31 Oct; later 2 Nov, 6 Nov, 13 Nov. No full-subject weak/s
 - Report section-wise performance; generated practice and historical PYQ separately labelled. Never infer PYQ frequency from the small convenience sample.
 
 30 Oct update: R01–R03 3/3 correct. Proceed to planned computer basics/binary, then digital logic prerequisites; DBMS example and broader diagnostics integrated into later checks. Research gaps remain pending and must be completed before certifying exact syllabus coverage.
+
+## Pacing preference — 30 Oct
+User requests exam-level challenge and faster teaching. Once a specific repair is demonstrated, advance and revisit it in mixed recall. Use concise theory plus 3–5 timed MCQs, with genuine PYQs identified by source. Generated exam-oriented questions are not claimed to be official PYQs or a validated difficulty match. Record actual user-reported solve time; chat response delay is not solve time.

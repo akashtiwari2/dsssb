@@ -50,3 +50,6 @@ Har naya chapter padhne ke saath purani galtiyon ki practice aur revision contin
 - Every 7 completed study sessions: 30-question cumulative timed test using taught topics; keep it distinct from a full mock.
 - Full mocks remain 21 and 26 November as planned; 120 uninterrupted minutes needed for full simulation.
 - Report section-wise performance; generated practice and historical PYQ separately labelled. Never infer PYQ frequency from the small convenience sample.
+
+## Pacing preference — 30 Oct
+User requests exam-level challenge and faster teaching. Once a specific repair is demonstrated, advance and revisit it in mixed recall. Use concise theory plus 3–5 timed MCQs, with genuine PYQs identified by source. Generated exam-oriented questions are not claimed to be official PYQs or a validated difficulty match. Record actual user-reported solve time; chat response delay is not solve time.

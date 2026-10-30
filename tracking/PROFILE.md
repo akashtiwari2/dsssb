@@ -32,3 +32,5 @@ N01–N03: 3/3 correct. Correct place-value explanation; distinction between 32 
 
 ## Addition check
 N04 incorrect:1011 instead of1001. N05 stored0001 and unsigned overflow correct; full sum10001 and working not supplied. Target narrow carry check; do not infer global binary weakness. Next one-question repair N06.
+
+N06 correct1011 with carry and decimal verification. User requests exam-level challenge and brisk pacing. Use compact lessons and timed mixed MCQs; ask elapsed solve-time, never infer it from chat latency. Retention pending.
