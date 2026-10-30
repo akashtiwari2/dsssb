@@ -1,1 +1,5 @@
 attempt_id,date_ist,session_id,topic_id,question_type,paper_id,question_reference,source_url,user_answer,correct_answer,result,independent,hint_used,guessed,seconds,confidence,error_id
+A001,2026-10-30,S20261030-01,MATH,assistant-generated,,B01,,4% km hua,4% decrease,CORRECT,unconfirmed,no,unknown,,,
+A002,2026-10-30,S20261030-01,REASON,assistant-generated,,B02,,starting se 1KM east par hai,3 km east,INCORRECT,unconfirmed,no,unknown,,,E001
+A003,2026-10-30,S20261030-01,CS-PROG,historical-PYQ-paraphrased,P24,Discipline 1 Q12; ID 630680598463; PDF p41,https://www.adda247.com/jobs/wp-content/uploads/sites/13/2026/06/02154459/DSSSB-TGT-Computer-Science-Official-Paper-Held-On_-07-Feb-2024-Shift-2-Eng.pdf,dict(),ord(),INCORRECT,unconfirmed,no,unknown,,,E002
+A004,2026-10-30,S20261030-01,CS-DBMS,assistant-generated,,B04,,PK uniquely identifies each row; FK relates tables through same column,PK unique and NOT NULL; FK references a primary/unique key; names need not match; example requested,PARTIAL,unconfirmed,no,unknown,,,E003

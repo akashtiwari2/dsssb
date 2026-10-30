@@ -69,3 +69,8 @@ Start formula cards after actual lessons; include conditions and examples. Revis
 3. 2–3 unseen variations.
 4. Save attempts and one-page notes; set next-day recall.
 5. Continue remaining subject baseline; do not infer full readiness from first four answers.
+
+## Adaptive update — 30 October
+B01–B04 answered. Narrow errors: direction distance and Python function selection. DBMS core idea present; example/constraints need check. Percentage result correct, working untested.
+Repair these first, then finish broad baseline and basic/binary lesson. Those scheduled lessons are still pending; do not infer completion from date. Use optional time or transparently reschedule after actual session capacity is known.
+First delayed recall: 31 Oct; later 2 Nov, 6 Nov, 13 Nov. No full-subject weak/strong labels yet.

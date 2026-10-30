@@ -1,6 +1,7 @@
-# Baseline 01 — first batch, pending answers
+# Baseline 01 — first batch answered 30 October 2026
 
-No score yet. Present B01–B04 only. No answers or hints before learner attempt.
+B01 correct; B02 incorrect distance/correct direction; B03 incorrect; B04 partial (core idea correct; example missing). No hints preceded submission. Timing/guess/confidence/assistance unknown.
+Four items are not a timed mock; no overall mock/selection score is appropriate.
 Ask for answer, brief reason, approximate seconds, confidence and guess flag. "Pata nahi" is a useful response.
 This checks only narrow starting skills, not subject mastery.
 

@@ -6,7 +6,9 @@ User-confirmed target: 1 December 2026. Exact candidate date/shift not independe
 Daily capacity: 1–3 hours. Plan for a guaranteed 60-minute core; extra time is optional.
 Completed syllabus: user cannot yet judge current level. Use diagnostic.
 Self-reported possible difficulties: Reasoning and Maths (tentative, not measured).
-Measured strong/weak subjects: unknown — no answers yet.
+Initial evidence (30 Oct): 4 responses — Maths percentage result correct; direction distance incorrect but east correct; Python function incorrect; DBMS core idea correct with incomplete detail/example.
+This is not a whole-subject strength/weakness classification. Response times, confidence, guessing and outside assistance not reported; no hints were supplied before answers.
+Prioritise narrow repair of displacement and Python function distinctions. Check DBMS reference/constraints with an example. Percentage application needs explain-back/delayed confirmation.
 
 ## Evidence-based status rules (coaching defaults)
 - UNTESTED: no diagnostic evidence.

@@ -1,13 +1,28 @@
 # Last revision pack
+Updated 30 October 2026. These are first-session corrections; no topic is certified retained.
 
-Yeh file actual lessons/tests ke saath grow hogi; abhi syllabus identified nahi aur koi topic complete nahi.
+## Percentage
+Second change uses new base. +20%, -20% gives 100→120→96: 4% decrease.
+Signed formula and conditions: [formula cards](FORMULAS.md).
 
-## Pack structure
-- Section-wise essential concepts in learner-friendly language.
-- Necessary formulas with units/conditions and common traps.
-- Frequently missed facts/rules, each with source where needed.
-- Error-log based "meri recurring galtiyan".
-- Verified PYQ pattern references; generated examples labelled separately.
-- Final-day recall checklist and verified exam instructions.
+## Direction
+Cancel opposing components separately. N4 E3 S4 ends 3 km east. Walking distance =11 km; displacement magnitude=3 km.
+Learner got direction correct and distance wrong; calculation cause unknown.
 
-Har topic ki short sheet pehle session se banao; final week mein existing sheets compress karo. Unattempted/unverified material ko mastered mat dikhao.
+## Python
+- ord('A') = 65: one character to its Unicode code point.
+- chr(65) = 'A': valid code point integer to character.
+- dict() constructs a dictionary (key-value mapping); dict() by itself gives {}.
+Recall pair: ord → number; chr → character.
+B03 selected dict(); application check pending.
+
+## DBMS keys
+Primary key uniquely identifies a row and cannot be NULL; it may consist of multiple columns.
+Foreign key references a primary/unique key of a referenced table (possibly the same table); columns need not share a name.
+Example: Department(dept_id PRIMARY KEY); Student(student_id PRIMARY KEY, department_code FOREIGN KEY references Department.dept_id).
+Student rows can share a department_code. Valid referencing values must have matching referenced keys, with NULL handling governed by column/DBMS constraints.
+Learner's general uniqueness/relationship explanation was correct; no example supplied. Do not infer FK naming misconception solely from ambiguous wording.
+
+## Next recall
+31 October: percentage transfer, direction components, ord/chr contrast, PK/FK example.
+Then 2 November, 6 November, 13 November; adjust using actual answers.
