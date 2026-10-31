@@ -13,7 +13,7 @@ Har session GitHub ka latest record padhkar shuru hoga. Padhai Hinglish mein, co
 5. [Source register](sources/REGISTER.md), [initial PYQ analysis](sources/PYQ_ANALYSIS.md)
 6. [Learner profile](tracking/PROFILE.md), [topic tracker](tracking/topics.csv), [attempts](tracking/attempts.csv), [errors](tracking/errors.csv)
 7. [Formula cards](revision/FORMULAS.md), [revision pack](revision/LAST_REVISION.md)
-8. [Baseline results](practice/BASELINE_01.md), [next repair questions](practice/REPAIR_01.md), [latest session log](logs/2026-10-30.md)
+8. [Baseline results](practice/BASELINE_01.md), [next repair questions](practice/REPAIR_01.md), [latest session log](logs/2026-10-31.md)
 
 ## Current position
 Official advertisement identifies TGT CS as post 41/26, Advt 03/2026, DoE. User's application post code confirmation remains pending.
